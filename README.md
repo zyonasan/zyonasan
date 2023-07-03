@@ -18,17 +18,17 @@ I am passionate about the intersection of 🧬 Biotech, 📜 Compliance, ✍️ 
 ### Technical Writing ✍️
 - Proven ability to write clear and concise technical documents 📑
 - Skilled in creating standard operating procedures (SOPs), user manuals, and validation protocols 📝
-- Experience in translating complex concepts into easily understandable instructions 🖊️
+- Experience in translating complex concepts into easily understandable instructions 🖊
 
 ### Quality Assurance 🧪
 - Comprehensive understanding of quality systems, quality control, and quality assurance processes 🧪
 - Proficient in risk assessment, root cause analysis, and implementation of corrective and preventive actions (CAPAs) 🔍
 - Strong track record in ensuring compliance with quality standards in the pharmaceutical industry ✅
   
-- [Compliance Resources](link-to-your-compliance-repository): A repository focusing on compliance in the pharmaceutical industry, including templates, examples, and audit checklists 📚
-- [Biotech Projects](link-to-your-biotech-repository): Showcase of my biotech projects, research work, and case studies 🧬
-- [Quality Assurance Templates](link-to-your-quality-assurance-repository): A collection of templates and resources related to quality assurance in the pharmaceutical field 🧪
+- [Compliance Resources](https://github.com/zyonasan/angiogenesis-analyzer): A repository focusing on compliance in the pharmaceutical industry, including templates, examples, and audit checklists 📚
+- [Biotech Projects](https://github.com/zyonasan/DL4MolecularGraph): Showcase of my biotech projects, research work, and case studies 🧬
 
+  
 Feel free to explore these repositories to learn more about my work and expertise in the pharmaceutical industry.
 
 ## Contact Me 📞
