@@ -32,8 +32,8 @@ I am passionate about the intersection of 🧬 Biotech, 📜 Compliance, ✍️ 
 Feel free to explore these repositories to learn more about my work and expertise in the pharmaceutical industry.
 
 ## Contact Me 📞
-- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin-profile) 💼
-- Email: [Your Email Address](mailto:your-email@example.com) 📧
+- LinkedIn: Available upon request 💼
+- Email: [joquinn@gmail.com](mailto:your-email@example.com) 📧
 
 I'm open to collaborations, discussions, and opportunities related to Biotech, Compliance, Technical Writing, and Quality Assurance. Feel free to reach out to me!
 
