@@ -24,9 +24,7 @@ I am passionate about the intersection of 🧬 Biotech, 📜 Compliance, ✍️ 
 - Comprehensive understanding of quality systems, quality control, and quality assurance processes 🧪
 - Proficient in risk assessment, root cause analysis, and implementation of corrective and preventive actions (CAPAs) 🔍
 - Strong track record in ensuring compliance with quality standards in the pharmaceutical industry ✅
-
-## Repositories 📂
-- [Technical Writing Portfolio](link-to-your-technical-writing-repository): A collection of my technical writing samples, including SOPs, user manuals, and validation protocols 📝
+  
 - [Compliance Resources](link-to-your-compliance-repository): A repository focusing on compliance in the pharmaceutical industry, including templates, examples, and audit checklists 📚
 - [Biotech Projects](link-to-your-biotech-repository): Showcase of my biotech projects, research work, and case studies 🧬
 - [Quality Assurance Templates](link-to-your-quality-assurance-repository): A collection of templates and resources related to quality assurance in the pharmaceutical field 🧪
